@@ -328,9 +328,9 @@ Durante o desenvolvimento das atividades, são trabalhados os seguintes conhecim
 
 ## 👥 Integrantes
 
-- Nome: **[Nome do integrante 1]**
-- Nome: **[Nome do integrante 2]**
-- Nome: **[Nome do integrante 3]**
+- Nome: Miguel Isak Nunes da Silva
+- Nome: Matheus Alves de Oliveira
+
 
 ## 🎓 Instituição
 
