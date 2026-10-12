@@ -1,5 +1,21 @@
 # Laboratório de Matemática Aplicada à Programação
 
+## 🎓 Instituição
+
+**Fatec Osasco — Centro Paula Souza**
+
+Curso: Desenvolvimento de Software Multiplataforma (DSM)
+
+Disciplina: Matemática Aplicada à Programação
+
+---
+
+## 👥 Integrantes
+
+- Nome: Miguel Isak Nunes da Silva
+- Nome: Matheus Alves de Oliveira
+
+
 ## 📚 Sobre o projeto
 
 Este repositório contém as atividades práticas de Matemática Aplicada à Programação, desenvolvidas em Python. O objetivo é aplicar conceitos matemáticos na resolução de problemas computacionais, utilizando funções, estruturas de repetição, condicionais e operações com conjuntos.
@@ -325,21 +341,5 @@ Durante o desenvolvimento das atividades, são trabalhados os seguintes conhecim
 - Aplicação de conceitos matemáticos em um sistema de recomendação.
 - Testes e validação de resultados.
 - Organização de projetos com Git e GitHub.
-
-## 👥 Integrantes
-
-- Nome: Miguel Isak Nunes da Silva
-- Nome: Matheus Alves de Oliveira
-
-
-## 🎓 Instituição
-
-**Fatec Osasco — Centro Paula Souza**
-
-Curso: Desenvolvimento de Software Multiplataforma (DSM)
-
-Disciplina: Matemática Aplicada à Programação
-
----
 
 Este projeto foi desenvolvido para fins acadêmicos, com o objetivo de demonstrar a aplicação prática dos conceitos matemáticos por meio da programação em Python.
